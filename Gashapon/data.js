@@ -81,7 +81,7 @@ const badges=[
             "Duration": "22-09-2022 00:00:00 - 16-10-2022 00:00:00 UTC",
         "SDropID": "Holowear tickets x5",
         "Times": "1",
-		"type": ["t_Hat_male_466_7cf32a701f9efd5b"]
+		"type": ["t_common_icon_fight"]
     },
     {
             "Title": "Capsule Dispenser",
