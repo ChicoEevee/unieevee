@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  max-width: 900px;
+  max-width: 700px;
   margin: auto;
 }
 
@@ -51,6 +51,7 @@ img {
 }
 .titlecolor {
 	text-shadow: 3px 3px rgb(0 0 0 / 10%);
+	text-align: center;
 }
 .titlecolor2 {
 	margin-top: 5px;
@@ -58,6 +59,13 @@ img {
 	padding-left: 15px;
 	background: #fff1;
 	box-shadow: 3px 3px 3px rgb(0 0 0 / 10%);
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.2s ease-in-out;
+}
+.titlecolor2:hover {
+	background: #fff3;
 }
 p {
 	margin: 0;
