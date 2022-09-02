@@ -1,14 +1,8 @@
-body {
-  font-family: sans-serif;
-  background-color: #222;
-  color: #ddd;
-}
-
 #app {
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  max-width: 1113px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -25,7 +19,7 @@ img {
 
 .animal {
   font-size: 2.6rem;
-  width: 3110px;
+  width: 100%;
   padding: 20px;
   margin: 10px;
   background-color: #333;
@@ -55,11 +49,16 @@ img {
   text-align: center;
   margin: 0;
 }
-
 .titlecolor {
-	color: #FFBF3B;
+	text-shadow: 3px 3px rgb(0 0 0 / 10%);
 }
-
 .titlecolor2 {
-	color: #FF6F50;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	background: #fff1;
+	box-shadow: 3px 3px 3px rgb(0 0 0 / 10%);
+}
+p {
+	margin: 0;
 }
