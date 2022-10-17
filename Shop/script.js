@@ -6,13 +6,9 @@ for (let badge of badges) {
 	a.classList.add('animal')
 	let t = `<p class="titlecolor"><strong>${badge.Name}</strong></p>`
 
-	for (let k in badge.Data) {
-		let v = badge.Data[k]
+	for (let k in badge.Info) {
+		let v = badge.Info[k]
 			t += `<p><strong>${k}:</strong> ${v}</p>`
-	}
-
-	for (let x of badge.type) {
-		t += `<img class="pet-photo" src="../images/${x}.png">`
 	}
 	
 	a.innerHTML = t
