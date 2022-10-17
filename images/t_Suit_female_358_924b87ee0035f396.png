@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<Error>
-	<Code>NoSuchKey</Code>
-	<Message>The specified key does not exist.</Message>
-	<Resource>/Encrypt/Default/Mall/Player/Suit/t_Suit_female_358_924b87ee0035f396.bytes</Resource>
-	<RequestId>NjJmMWEwZjZfZWVlZjc4MGJfMjc4N2VfYTE0MDMyNg==</RequestId>
-	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OWJkOWQxZWEzNjgzMWI0YzQ1NTY5ZjZmMjI2NWFlMWZiYzM4NTYxNmY5ZThkZGJkN2IxNmZhNGQzM2RjZjQxMzc=</TraceId>
-</Error>
-
